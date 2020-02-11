@@ -6,7 +6,7 @@ AWK scripts to parse IP addresses
 
 Parse an integer encoded IPv4 to point separated 8 bit decimals
 
-Usage: cat ips.list | awk -f ip2int2ip.awk
+Usage: cat ips.list | awk -f int2ip.awk
 
 Example: 3232235777 -> 192.168.1.1
 
