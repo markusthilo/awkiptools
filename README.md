@@ -26,7 +26,7 @@ Remove spaces
 
 Remove leading 0s, example: 192.168.022.001 -> 192.168.22.1
 
-Expand ip ranges in CIDR notatio
+Expand ip ranges in CIDR notation
 
 Skip lines without valid IP or range
 
